@@ -107,7 +107,7 @@ body {
 .icons > a:hover {
   transform: scale(1.05);
   transition: transform 300ms ease-in-out;
-  color: orange;
+  color: #548CA9;
 }
 
 /* ====== CONTENT ====== */
@@ -185,7 +185,7 @@ body {
 .list > li:hover {
   transform: scale(1.01);
   transition: transform 400ms ease-in-out;
-  color: orange;
+  color: #548CA9;
 }
 
 .list > li > a {
@@ -195,7 +195,7 @@ body {
 }
 
 .list > li > a:hover {
-  color: orange;
+  color: #548CA9;
 }
 
 /* ====== TEMA DARK ====== */
@@ -217,7 +217,7 @@ body {
 }
 
 .dark .container .header .perfil .description .icons a:hover {
-  color: orange;
+  color: #548CA9;
 }
 
 .dark .container .header button {
